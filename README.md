@@ -1,4 +1,4 @@
-# Calendar
+# Lunar Calendar
 
 Displays a lunar calendar with Alfred Workflow.
 
