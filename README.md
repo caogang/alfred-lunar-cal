@@ -4,7 +4,7 @@ Displays a lunar calendar with Alfred Workflow.
 
 # Install
 - Have access to Alfred [Powerpack](http://www.alfredapp.com/powerpack/).
-- Download and open the [workflow](Lunar Calendar.alfredworkflow?raw=true).
+- Download and open the [workflow](Lunar\ Calendar.alfredworkflow?raw=true).
 
 # Usage
 - `cal [month [year]] [<] [>]`
