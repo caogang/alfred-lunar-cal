@@ -16,7 +16,7 @@ Displays a lunar calendar with Alfred Workflow.
 - `calconfig` More configuration options.
 
 <a name="support"></a>
-#Supported Calendar Software
+# Supported Calendar Software
 - BusyCal
 - Fantastical 2
 - Google Calendar
